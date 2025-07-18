@@ -1,9 +1,9 @@
-import "./App.css";
+import Body from "./components/Body";
 
 function App() {
   return (
     <>
-      <h2>Hello world</h2>
+      <Body />
     </>
   );
 }
